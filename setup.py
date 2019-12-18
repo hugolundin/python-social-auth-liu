@@ -12,6 +12,6 @@ setup(
     install_requires=[
         'social-auth-core==1.*',
         'PyJWT==1.*',
-        'cryptography==1.*',
+        'cryptography==2.*',
     ]
 )
